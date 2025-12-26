@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: c6cd3a573e213a148aadf8aaf2883256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8310780321086899995
+    second: skellie just shadows 60x60_0
+  - first:
+      213: -4035708930160863205
+    second: skellie just shadows 60x60_1
+  - first:
+      213: 2148276858267067155
+    second: skellie just shadows 60x60_2
+  - first:
+      213: -8824406178416164075
+    second: skellie just shadows 60x60_3
+  - first:
+      213: -381320421282420110
+    second: skellie just shadows 60x60_4
+  - first:
+      213: 6774205461142223474
+    second: skellie just shadows 60x60_5
+  - first:
+      213: -1220015714889669758
+    second: skellie just shadows 60x60_6
+  - first:
+      213: -1243239005502186862
+    second: skellie just shadows 60x60_7
+  - first:
+      213: 2696654192832725358
+    second: skellie just shadows 60x60_8
+  - first:
+      213: 792248204883665154
+    second: skellie just shadows 60x60_9
+  - first:
+      213: 3645762624393879509
+    second: skellie just shadows 60x60_10
+  - first:
+      213: -8567082759184881422
+    second: skellie just shadows 60x60_11
+  - first:
+      213: -3307368762646648369
+    second: skellie just shadows 60x60_12
+  - first:
+      213: -2246812540437272630
+    second: skellie just shadows 60x60_13
+  - first:
+      213: -6299855256848147291
+    second: skellie just shadows 60x60_14
+  - first:
+      213: -2940859252111984264
+    second: skellie just shadows 60x60_15
+  - first:
+      213: 2894146876005859017
+    second: skellie just shadows 60x60_16
+  - first:
+      213: -8127634170000585130
+    second: skellie just shadows 60x60_17
+  - first:
+      213: -3059126405046168365
+    second: skellie just shadows 60x60_18
+  - first:
+      213: 8880722771769221275
+    second: skellie just shadows 60x60_19
+  - first:
+      213: -3230077516603226818
+    second: skellie just shadows 60x60_20
+  - first:
+      213: -5088001779181681010
+    second: skellie just shadows 60x60_21
+  - first:
+      213: -9095812113453845892
+    second: skellie just shadows 60x60_22
+  - first:
+      213: 7877062614648769000
+    second: skellie just shadows 60x60_23
+  - first:
+      213: 369975208845580426
+    second: skellie just shadows 60x60_24
+  - first:
+      213: 4562322772520299548
+    second: skellie just shadows 60x60_25
+  - first:
+      213: -566329716695776181
+    second: skellie just shadows 60x60_26
+  - first:
+      213: 3425044707509068225
+    second: skellie just shadows 60x60_27
+  - first:
+      213: -3888401876000165109
+    second: skellie just shadows 60x60_28
+  - first:
+      213: 6251142461901553302
+    second: skellie just shadows 60x60_29
+  - first:
+      213: -8805977050759436160
+    second: skellie just shadows 60x60_30
+  - first:
+      213: -4506474884234813766
+    second: skellie just shadows 60x60_31
+  - first:
+      213: 6093862143746327368
+    second: skellie just shadows 60x60_32
+  - first:
+      213: 3487041550124663020
+    second: skellie just shadows 60x60_33
+  - first:
+      213: 3843447477346150662
+    second: skellie just shadows 60x60_34
+  - first:
+      213: 4582337159200249551
+    second: skellie just shadows 60x60_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 360
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac828842dbd47a84890cd15c9fb92bd4
+      internalID: -596755306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 360
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9ea6425fc38f40a591257a7930cce
+      internalID: 103707199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac679712dce8436419e298340f7861fe
+      internalID: 726793434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 300
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93099d9de1a3574895510ebc38746bc
+      internalID: -1016183466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 300
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30b4241aad61f4788031a9ff1beaa5
+      internalID: 1646530915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 300
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42bb80c78b6dc44b86bb9adf44856a
+      internalID: -954321071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 240
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcb952c3a100348b5342562e57ed6a
+      internalID: 1325663676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4573f22d1123e4da2992fe9ab28487
+      internalID: 1367855442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 240
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c33a98b648284c8b2e78178d53b0b
+      internalID: 1840732234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100139b96fd84bf4ba2d4bc6a06590bc
+      internalID: -838459122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 180
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b772592b307a44cb2efae3853c6682
+      internalID: -757371059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 180
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.31258988, y: -0.000000726609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed5a04b309036d468ef2f5d59d4b7a0
+      internalID: 1253697658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 180
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9957009b16a5f284397be39b869b04fd
+      internalID: -1501158541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 180
+        width: 25
+        height: 9
+      alignment: 9
+      pivot: {x: 0.28285706, y: -0.000001695421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec766c28bbee3e4dbe1ba0d41b00556
+      internalID: 497799599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 180
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dfe1f24cf88d140906d81b4eb0851c
+      internalID: 775368435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 180
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.28161255, y: 0.0000008477105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c156d984d14307408029f4ef66cab9c
+      internalID: -318793509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 180
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4022297, y: -0.000001173753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1908cd4fcff840989a61070ca7cb0
+      internalID: 1568866127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7579d86a217c47ae3c3950f12cc7d
+      internalID: 1657724650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20928eb8e54d6941aba0d133fd83609
+      internalID: -2098815150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74021b8277602445931bd9c6f048575
+      internalID: 470774951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b22c463f31ff4c814fba073283905
+      internalID: -1715635827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37221cabbd788c47816db937c9191e6
+      internalID: -1462937907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 120
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107106f495d45d49903c8953d68de3e
+      internalID: 1731560068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540aa86961f0dfe4099370eda0dcb302
+      internalID: 1621802101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a28613b0053824a81d75e4dd695fa0
+      internalID: -236296543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687d9b760ab82f49bd915819e9f41eb
+      internalID: 349637397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6b123458124a42a4cbf442bd021d3
+      internalID: 972999776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f0c25aae35214fb6f1c659d55eb8c
+      internalID: 588387276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 60
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011d2840911de54daff15afcb43fb2c
+      internalID: -712921746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0217a71ce18c459682275edc06202
+      internalID: -453708325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f200d5ac40f5d478d061b3b2ce42b1
+      internalID: 1700443783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e366749a79484c871a6fa2321300a
+      internalID: 72379419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf5dea6fb852e4395ce47ceab907f0
+      internalID: -1167172563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154cea6c4504844cabc2db95f97d43d
+      internalID: 180216332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4dfa6b4eea05c47b3ea2d5846ec4e8
+      internalID: -998812148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie just shadows 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefbf824edcbb744a75efd984472b8f
+      internalID: 1169514729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d5e959b83c396d45822a303ef421611
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skellie just shadows 60x60_0: -596755306
+      skellie just shadows 60x60_1: 103707199
+      skellie just shadows 60x60_10: -757371059
+      skellie just shadows 60x60_11: 1253697658
+      skellie just shadows 60x60_12: -1501158541
+      skellie just shadows 60x60_13: 497799599
+      skellie just shadows 60x60_14: 775368435
+      skellie just shadows 60x60_15: -318793509
+      skellie just shadows 60x60_16: 1568866127
+      skellie just shadows 60x60_17: 1657724650
+      skellie just shadows 60x60_18: -2098815150
+      skellie just shadows 60x60_19: 470774951
+      skellie just shadows 60x60_2: 726793434
+      skellie just shadows 60x60_20: -1715635827
+      skellie just shadows 60x60_21: -1462937907
+      skellie just shadows 60x60_22: 1731560068
+      skellie just shadows 60x60_23: 1621802101
+      skellie just shadows 60x60_24: -236296543
+      skellie just shadows 60x60_25: 349637397
+      skellie just shadows 60x60_26: 972999776
+      skellie just shadows 60x60_27: 588387276
+      skellie just shadows 60x60_28: -712921746
+      skellie just shadows 60x60_29: -453708325
+      skellie just shadows 60x60_3: -1016183466
+      skellie just shadows 60x60_30: 1700443783
+      skellie just shadows 60x60_31: 72379419
+      skellie just shadows 60x60_32: -1167172563
+      skellie just shadows 60x60_33: 180216332
+      skellie just shadows 60x60_34: -998812148
+      skellie just shadows 60x60_35: 1169514729
+      skellie just shadows 60x60_4: 1646530915
+      skellie just shadows 60x60_5: -954321071
+      skellie just shadows 60x60_6: 1325663676
+      skellie just shadows 60x60_7: 1367855442
+      skellie just shadows 60x60_8: 1840732234
+      skellie just shadows 60x60_9: -838459122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

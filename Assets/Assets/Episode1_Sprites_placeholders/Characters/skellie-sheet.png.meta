@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 4d724528599dcb541a011aa955581e74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2848709574632610534
+    second: skellie-sheet_0
+  - first:
+      213: 1855713237982806440
+    second: skellie-sheet_1
+  - first:
+      213: 4009750951842282634
+    second: skellie-sheet_2
+  - first:
+      213: 4186841430450030663
+    second: skellie-sheet_3
+  - first:
+      213: 860884549148966331
+    second: skellie-sheet_4
+  - first:
+      213: 7718159952600079077
+    second: skellie-sheet_5
+  - first:
+      213: 7054555574305231038
+    second: skellie-sheet_6
+  - first:
+      213: 7209784667983391994
+    second: skellie-sheet_7
+  - first:
+      213: 4670531120889048591
+    second: skellie-sheet_8
+  - first:
+      213: 320517569056942182
+    second: skellie-sheet_9
+  - first:
+      213: -5810044968384883979
+    second: skellie-sheet_10
+  - first:
+      213: 3115964089334593108
+    second: skellie-sheet_11
+  - first:
+      213: 5379172301003439207
+    second: skellie-sheet_12
+  - first:
+      213: -1102639742894187448
+    second: skellie-sheet_13
+  - first:
+      213: 3060374495708809574
+    second: skellie-sheet_14
+  - first:
+      213: -1084005676480273669
+    second: skellie-sheet_15
+  - first:
+      213: -4288856278390032451
+    second: skellie-sheet_16
+  - first:
+      213: -2485047007562528670
+    second: skellie-sheet_17
+  - first:
+      213: -2642146712337324855
+    second: skellie-sheet_18
+  - first:
+      213: 836327831012512911
+    second: skellie-sheet_19
+  - first:
+      213: -2488271814897901890
+    second: skellie-sheet_20
+  - first:
+      213: -6105424503361070135
+    second: skellie-sheet_21
+  - first:
+      213: 4846145695850564714
+    second: skellie-sheet_22
+  - first:
+      213: -7590347947759896828
+    second: skellie-sheet_23
+  - first:
+      213: 6150169282369835645
+    second: skellie-sheet_24
+  - first:
+      213: -6468885598227399315
+    second: skellie-sheet_25
+  - first:
+      213: 4878415523772888469
+    second: skellie-sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skellie-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3962504, y: 0.06356549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9c3633d45bcd498903a72a81a6f7e
+      internalID: -1551086802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3857302, y: 0.030211015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d35c9a2b857774e844baccdb4f36ec
+      internalID: -599894639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3925607, y: 0.036495924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a52addcdb63e4884c179c984e853b
+      internalID: -1972673389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 120
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.38707915, y: 0.03131771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0895f28f2d9724882761d89449dcca
+      internalID: -2062656720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 120
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.38079688, y: 0.031677008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0f779b56f9274dbaff20d7d4d4cd2
+      internalID: -1224185207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 120
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3899812, y: 0.02517271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4760e6482bfb24abcf91777a606dbb
+      internalID: 958168141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 120
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.34948996, y: 0.036940813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b883c7bce48b7741b7cb21aaf6ef52e
+      internalID: -2048516334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 60
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.31793728, y: 0.04172921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5df71dceed71c4793faa4d30142497
+      internalID: 253697984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 60
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35664234, y: 0.029806614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa9b761338be348bee89f25a745a50
+      internalID: -130444867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 60
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.39060757, y: 0.035767913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d3600c74626c45ad8a1c46e6f49a7
+      internalID: -1035238435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 60
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30998802, y: 0.04172921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf6f9772572af4295403ba133b8576
+      internalID: -80352054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 60
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30668458, y: 0.03646028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2f294e8504be43b75ae3de441e41f
+      internalID: 1430893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 36
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2b1af19956424ebf93be997a8393c
+      internalID: -137565270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 60
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3077099, y: 0.03646028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4dcfcb835199b4b98fec0815932628
+      internalID: -1678774842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 60
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3560805, y: 0.03125167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20aa242afe15542a379b9d75b99c10
+      internalID: 1774195834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 44
+        width: 7
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fbf3d7285b85419ed68666f4cd20f
+      internalID: -805620953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.37063685, y: 0.011299747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a2285fb2d45a46b5dcda61de586d4
+      internalID: 1860432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3358626, y: 0.032070205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d85503cf6d8b14f942bdb099efd5a5
+      internalID: 1193794729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.38796562, y: 0.009429871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc7117b6428604ba0700510ff59bd3
+      internalID: 1966259018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45630547, y: 0.008463907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791113235f157db47adc07bb12bdf8ca
+      internalID: -1089568564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45812666, y: 0.0091623925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fa1ac3e0334b40b2ade54a50f53b4
+      internalID: -227613975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: -0.09046427, y: -0.077541895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8458132dcc1d4c94b5f9dcdc93f6e
+      internalID: 1516717452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30003053, y: 0.009192109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab443b2726fd6f54191b80cc1b14770f
+      internalID: -2053110916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 35
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783505bee4b84564a9a38fe62adc72c9
+      internalID: 1531357101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.33906737, y: 0.006643363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e75d6b4a8d2354584a630144dc1cdd
+      internalID: -534720441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.07651357, y: -0.22954106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd8291626264a4dbd9443e3b8b1d0b
+      internalID: 551304575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 9
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0875bec3f11e24c9147b42481370f0
+      internalID: -1921417639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49acf59f1ebb711468bfeb63c148eeb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skellie-sheet_0: -1551086802
+      skellie-sheet_1: -599894639
+      skellie-sheet_10: -80352054
+      skellie-sheet_11: 1430893490
+      skellie-sheet_12: -137565270
+      skellie-sheet_13: -1678774842
+      skellie-sheet_14: 1774195834
+      skellie-sheet_15: -805620953
+      skellie-sheet_16: 1860432962
+      skellie-sheet_17: 1193794729
+      skellie-sheet_18: 1966259018
+      skellie-sheet_19: -1089568564
+      skellie-sheet_2: -1972673389
+      skellie-sheet_20: -227613975
+      skellie-sheet_21: 1516717452
+      skellie-sheet_22: -2053110916
+      skellie-sheet_23: 1531357101
+      skellie-sheet_24: -534720441
+      skellie-sheet_25: 551304575
+      skellie-sheet_26: -1921417639
+      skellie-sheet_3: -2062656720
+      skellie-sheet_4: -1224185207
+      skellie-sheet_5: 958168141
+      skellie-sheet_6: -2048516334
+      skellie-sheet_7: 253697984
+      skellie-sheet_8: -130444867
+      skellie-sheet_9: -1035238435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

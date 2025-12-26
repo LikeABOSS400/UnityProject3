@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: cf0d5159ca7994a439a375dc39585611
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6033564367794964556
+    second: skellie no shadows 60x60_0
+  - first:
+      213: -7490312360952758556
+    second: skellie no shadows 60x60_1
+  - first:
+      213: -382488953102572108
+    second: skellie no shadows 60x60_2
+  - first:
+      213: 3074092928227744308
+    second: skellie no shadows 60x60_3
+  - first:
+      213: 1610570679834041067
+    second: skellie no shadows 60x60_4
+  - first:
+      213: -8940573719444957105
+    second: skellie no shadows 60x60_5
+  - first:
+      213: -6132159824966965075
+    second: skellie no shadows 60x60_6
+  - first:
+      213: 920032259804650278
+    second: skellie no shadows 60x60_7
+  - first:
+      213: -1037149134402336005
+    second: skellie no shadows 60x60_8
+  - first:
+      213: -884190912517872436
+    second: skellie no shadows 60x60_9
+  - first:
+      213: 4548490040504311479
+    second: skellie no shadows 60x60_10
+  - first:
+      213: -3807749245801866378
+    second: skellie no shadows 60x60_11
+  - first:
+      213: -434993607150094233
+    second: skellie no shadows 60x60_12
+  - first:
+      213: 7304884224222849501
+    second: skellie no shadows 60x60_13
+  - first:
+      213: 3236974705135254987
+    second: skellie no shadows 60x60_14
+  - first:
+      213: 8071740412894738536
+    second: skellie no shadows 60x60_15
+  - first:
+      213: -2805979789812229912
+    second: skellie no shadows 60x60_16
+  - first:
+      213: -2504105140909255890
+    second: skellie no shadows 60x60_17
+  - first:
+      213: 6006072267346116117
+    second: skellie no shadows 60x60_18
+  - first:
+      213: -2053802292217757302
+    second: skellie no shadows 60x60_19
+  - first:
+      213: 1073092895246075265
+    second: skellie no shadows 60x60_20
+  - first:
+      213: -5736983627213788188
+    second: skellie no shadows 60x60_21
+  - first:
+      213: -4782446815397005063
+    second: skellie no shadows 60x60_22
+  - first:
+      213: 3918655495236355806
+    second: skellie no shadows 60x60_23
+  - first:
+      213: -5740248467205409219
+    second: skellie no shadows 60x60_24
+  - first:
+      213: -2073233010178475197
+    second: skellie no shadows 60x60_25
+  - first:
+      213: 1968359293130654251
+    second: skellie no shadows 60x60_26
+  - first:
+      213: -8492874906056507658
+    second: skellie no shadows 60x60_27
+  - first:
+      213: 1282759935766808843
+    second: skellie no shadows 60x60_28
+  - first:
+      213: -4943152988399246285
+    second: skellie no shadows 60x60_29
+  - first:
+      213: -5925958631612310135
+    second: skellie no shadows 60x60_30
+  - first:
+      213: -8383969509378264004
+    second: skellie no shadows 60x60_31
+  - first:
+      213: 1367424351374349520
+    second: skellie no shadows 60x60_32
+  - first:
+      213: -7836741562855768536
+    second: skellie no shadows 60x60_33
+  - first:
+      213: 7075742331531165683
+    second: skellie no shadows 60x60_34
+  - first:
+      213: -8854057371095630618
+    second: skellie no shadows 60x60_35
+  - first:
+      213: 595803113497038206
+    second: skellie no shadows 60x60_36
+  - first:
+      213: 2778154695264487310
+    second: skellie no shadows 60x60_37
+  - first:
+      213: -2501025356418617283
+    second: skellie no shadows 60x60_38
+  - first:
+      213: -6147161261790993526
+    second: skellie no shadows 60x60_39
+  - first:
+      213: 3943709340074986118
+    second: skellie no shadows 60x60_40
+  - first:
+      213: 7048678581713393972
+    second: skellie no shadows 60x60_41
+  - first:
+      213: 3890049523513399257
+    second: skellie no shadows 60x60_42
+  - first:
+      213: 4286677275264683028
+    second: skellie no shadows 60x60_43
+  - first:
+      213: 6453183275200133634
+    second: skellie no shadows 60x60_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 361
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44135347, y: -0.000001968876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff109fe9015d04439772443b935e472
+      internalID: 1845241319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 361
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.42669168, y: -0.0000019073486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b417bc6e3698449b1909ab8ddf272
+      internalID: 1846240645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 301
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45166478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3b8cb856880f46a0c126613a50597
+      internalID: 1585587793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 301
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.43555304, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7b2ff360774d44b46d881afaba0b6
+      internalID: 1568114155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 301
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4362575, y: -0.000000984438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971f7cd8da0a2f4992547ee295f9fc9
+      internalID: 1732284471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beae107686c73c44ae5ce8933e6b927
+      internalID: 2097585569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 241
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.41983968, y: 0.000000492219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6f2d53a6bc9d47af05553e2943435
+      internalID: 1641584386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3751264, y: 0.010293776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4c7246ee42b2429bca70c249a4301
+      internalID: 81965040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 241
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.37499872, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea54f382fe5104091521302f44c54c
+      internalID: 9020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 241
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3650035, y: 0.008346065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af80c77efbf3ff0438738221912e929c
+      internalID: -1538242373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 182
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcfefce207d2b40a63a485e5ac97b0
+      internalID: -404534024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 181
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42716137, y: 0.000000984438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b87eb801b98144aa2ae7e9359d1d19
+      internalID: -795924512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 182
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3240992, y: -0.008795166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e302b42bc66da4cb519079b5586435
+      internalID: 1800708704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 182
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.30829835, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b491912828a9941b4aa78da506b799
+      internalID: -1608998664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 321
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6032745, y: -0.030373069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79083e52a0331a6448932f7c3b18ed89
+      internalID: -880078170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 182
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367110142a3897f49ab5d3d0f6251766
+      internalID: -1438995641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 182
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1270dffecec7f2b409617de68cf35a5c
+      internalID: 141124209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.58360946, y: -0.07316208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060af08ec4061094a8ae0d5fa7f5edf8
+      internalID: 578386116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 182
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd285f5f059dd438f4dc663cf7ae39
+      internalID: 59784747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 320
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e49adbe0bc00e43b81eab77222d09b
+      internalID: 238575710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 325
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65ef7eef614d742a3ad068b1d7468b
+      internalID: -834283336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e10a0c2d431845b740ab81a7ac196
+      internalID: 787263945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d538e10502ef4e8012aa7a0d0208b
+      internalID: -1387495236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 127
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef6e09c934fb94091a0cbd4c0bdb96
+      internalID: -593186775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 146
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a50b554877f94daee9d9657dbe3e6
+      internalID: -2056009418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 122
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e3de7d07229d41ba3c2b47c534043
+      internalID: -253881114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 130
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2f41bd9a199e48a8c5309296012ec
+      internalID: -1215654056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 121
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61353ad27627a564099fee4a7e74f29c
+      internalID: 959876822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 122
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abffafa271e7234e986e1ffa8120860
+      internalID: -891117516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 127
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a986acfe106c479a75ae5fc3d0abb
+      internalID: -1021513590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27e0c32cef02e4291c238f68e9585b
+      internalID: -1376991890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 60
+        width: 22
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db2c400df119641b2eca34ced40aa8
+      internalID: -1893658985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 61
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a891163429ba5748b86acaaca887acf
+      internalID: 508272031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 61
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfd90df7e0e9841996abd5c48b758a
+      internalID: 1238865094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 61
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6dc7303a9f674da36bf6502b9e96d
+      internalID: -1933770391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 61
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e899dc62453dc3418c5257034b745ff
+      internalID: -1466743495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d7c276cb1eaa49b80cb7d087368df
+      internalID: 2049828226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1992939f2b80544d8e25daaa68da207
+      internalID: 431163751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1d4e4bb0f7ce42bd191f24a123871
+      internalID: -580519194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a15496697f6734ea9c3853e4daef0e
+      internalID: -1364733805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058618fab6f2434899860e295ae6e23
+      internalID: 1937541836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4aae51df8d4845889684238844486
+      internalID: -1735496656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c843ea6334ae945856136a88461a7f
+      internalID: -1872170059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e975a6117e3d468207b1e8fe320cd
+      internalID: -904760083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skellie no shadows 60x60_44
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952972f78bfd1f458f2f836e5ac0663
+      internalID: -1908513989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f953970266d37a04ab128707cbf1e7c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skellie no shadows 60x60_0: 1845241319
+      skellie no shadows 60x60_1: 1846240645
+      skellie no shadows 60x60_10: -404534024
+      skellie no shadows 60x60_11: -795924512
+      skellie no shadows 60x60_12: 1800708704
+      skellie no shadows 60x60_13: -1608998664
+      skellie no shadows 60x60_14: -880078170
+      skellie no shadows 60x60_15: -1438995641
+      skellie no shadows 60x60_16: 141124209
+      skellie no shadows 60x60_17: 578386116
+      skellie no shadows 60x60_18: 59784747
+      skellie no shadows 60x60_19: 238575710
+      skellie no shadows 60x60_2: 1585587793
+      skellie no shadows 60x60_20: -834283336
+      skellie no shadows 60x60_21: 787263945
+      skellie no shadows 60x60_22: -1387495236
+      skellie no shadows 60x60_23: -593186775
+      skellie no shadows 60x60_24: -2056009418
+      skellie no shadows 60x60_25: -253881114
+      skellie no shadows 60x60_26: -1215654056
+      skellie no shadows 60x60_27: 959876822
+      skellie no shadows 60x60_28: -891117516
+      skellie no shadows 60x60_29: -1021513590
+      skellie no shadows 60x60_3: 1568114155
+      skellie no shadows 60x60_30: -1376991890
+      skellie no shadows 60x60_31: -1893658985
+      skellie no shadows 60x60_32: 508272031
+      skellie no shadows 60x60_33: 1238865094
+      skellie no shadows 60x60_34: -1933770391
+      skellie no shadows 60x60_35: -1466743495
+      skellie no shadows 60x60_36: 2049828226
+      skellie no shadows 60x60_37: 431163751
+      skellie no shadows 60x60_38: -580519194
+      skellie no shadows 60x60_39: -1364733805
+      skellie no shadows 60x60_4: 1732284471
+      skellie no shadows 60x60_40: 1937541836
+      skellie no shadows 60x60_41: -1735496656
+      skellie no shadows 60x60_42: -1872170059
+      skellie no shadows 60x60_43: -904760083
+      skellie no shadows 60x60_44: -1908513989
+      skellie no shadows 60x60_5: 2097585569
+      skellie no shadows 60x60_6: 1641584386
+      skellie no shadows 60x60_7: 81965040
+      skellie no shadows 60x60_8: 9020670
+      skellie no shadows 60x60_9: -1538242373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
