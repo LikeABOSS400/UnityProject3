@@ -1,17 +1,32 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 public class EnemyBehaviour : MonoBehaviour
 {
     public int MaxHealth = 100;
     int currentHealth;
     private Transform target;
+
     public float speed = 2f;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public float range = 1.5f;
+    public float coolDown = 1f;
+    public float backOffChance = 0.2f;
+    public float BackoffDistance = 2f;
+    public float BackOffTimer = 1.2f;
+
+    private float lastAttackTime = 0f;
+    public bool BackingOff = false;
+    public float backOffEndTime;
+    private Vector3 backOffTarget;
     void Start()
     {
         currentHealth = MaxHealth;
-        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if(player != null)
+        {
+            target = player.transform;
+        }
     }
 
     public void TakeDamage(int damage)
@@ -36,6 +51,51 @@ public class EnemyBehaviour : MonoBehaviour
     {
         if (target == null) return;
 
-        transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+        float distance = Vector2.Distance(transform.position, target.position);
+
+        if(BackingOff)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, backOffTarget, speed * Time.deltaTime);
+
+            if (Time.time >= backOffEndTime)
+                BackingOff = false;
+
+            return;
+        }
+
+        if(distance > range)
+        {
+            MoveTowards(target.position);
+            return;
+        }
+
+        if(Time.time > lastAttackTime + coolDown)
+        {
+            Attack();
+
+            if (Random.value < backOffChance)
+                StartBackOff();
+        }
+
+    }
+
+    void MoveTowards(Vector3 target)
+    {
+        transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
+    }
+
+    void Attack()
+    {
+        lastAttackTime = Time.time;
+        Debug.Log("Enemy attack!");
+    }
+
+    void StartBackOff()
+    {
+        BackingOff = true;
+        backOffEndTime = Time.time + BackOffTimer;
+
+        Vector3 direction = (transform.position - target.position).normalized;
+        backOffTarget = transform.position + direction * BackoffDistance;
     }
 }

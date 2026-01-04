@@ -9,6 +9,7 @@ public class Sector : MonoBehaviour
 {
     public ChaosManager chaosMeter;
     public float chaos = 0;
+    private string sectorID;
 
     private static List<Sector> allSectors = new List<Sector>();
     [SerializeField] private GameObject Highlight;
@@ -16,6 +17,13 @@ public class Sector : MonoBehaviour
     private void Awake()
     {
         allSectors.Add(this);
+
+        sectorID = gameObject.name;
+        if (DataManager.Instance != null)
+        {
+            chaos = DataManager.Instance.LoadChaos(sectorID, chaos);
+        }
+
         if (chaosMeter != null)
         {
             chaosMeter.UpdateChaos(chaos);
@@ -32,8 +40,9 @@ public class Sector : MonoBehaviour
     }
     public void OnMouseDown()
     {
-        SceneManager.LoadScene("SampleScene");
         ApplyChaos();
+        SceneManager.LoadScene("SampleScene");
+
     }
 
     public void ApplyChaos()
@@ -73,6 +82,11 @@ public class Sector : MonoBehaviour
         {
             chaosMeter.UpdateChaos(chaos);
         }
+
+        if(DataManager.Instance != null)
+        {
+            DataManager.Instance.SaveChaos(sectorID, chaos);
+        }
     }
 
     public void AddChaos(float value)
@@ -82,6 +96,11 @@ public class Sector : MonoBehaviour
         if (chaosMeter != null)
         {
             chaosMeter.UpdateChaos(chaos);
+        }
+
+        if(DataManager.Instance != null)
+        {
+            DataManager.Instance.SaveChaos(sectorID, chaos);
         }
     }
 }

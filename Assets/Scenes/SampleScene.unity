@@ -1109,7 +1109,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &706450840
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1583,6 +1583,7 @@ GameObject:
   - component: {fileID: 927286448}
   - component: {fileID: 927286447}
   - component: {fileID: 927286446}
+  - component: {fileID: 927286450}
   m_Layer: 8
   m_Name: skellie-sheet_0
   m_TagString: Untagged
@@ -1743,6 +1744,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &927286450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927286445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f3c3f3d5ecb914bafbbe07553395da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MaxHealth: 100
+  speed: 2
 --- !u!1 &1189094668
 GameObject:
   m_ObjectHideFlags: 0
