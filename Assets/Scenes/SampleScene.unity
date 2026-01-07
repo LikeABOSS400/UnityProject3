@@ -1758,6 +1758,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MaxHealth: 100
   speed: 2
+  range: 1.5
+  coolDown: 1
+  backOffChance: 0.2
+  BackoffDistance: 2
+  BackOffTimer: 1.2
+  BackingOff: 0
+  backOffEndTime: 0
 --- !u!1 &1189094668
 GameObject:
   m_ObjectHideFlags: 0
@@ -1888,7 +1895,7 @@ GameObject:
   - component: {fileID: 1251232563}
   m_Layer: 0
   m_Name: New Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
