@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CharacterMovement : MonoBehaviour
 {
+    public float Health, MaxHealth;
+    [SerializeField]
+    private HealthBarUI healthBar;
     [SerializeField] private bool canMove = true;
     [Tooltip(("If your character does not jump, ignore all below 'Jumping' Character"))]
     [SerializeField] private bool doesCharacterJump = false;
@@ -45,6 +48,7 @@ public class CharacterMovement : MonoBehaviour
 
     private void Start()
     {
+        healthBar.SetMaxHealth(MaxHealth);
         charDefaultRelPos = charRB.transform.localPosition;
     }
     
@@ -55,6 +59,14 @@ public class CharacterMovement : MonoBehaviour
         {
             jump = true;
         }
+        
+    }
+    public void SetHealth(float healthChange)
+    {
+        Health += healthChange;
+        Health = Mathf.Clamp(Health, 0, MaxHealth);
+
+        healthBar.SetHealth(Health);
     }
 
     private void FixedUpdate()
