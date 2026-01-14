@@ -359,6 +359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 272592764}
   - component: {fileID: 272592765}
+  - component: {fileID: 272592766}
   m_Layer: 5
   m_Name: HealthBar
   m_TagString: Untagged
@@ -384,8 +385,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.37875003, y: 0.87000006}
   m_AnchorMax: {x: 0.37875003, y: 0.87000006}
-  m_AnchoredPosition: {x: -78, y: 50}
-  m_SizeDelta: {x: 250, y: 15}
+  m_AnchoredPosition: {x: 21.979, y: 44.401}
+  m_SizeDelta: {x: 449.959, y: 69.929}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &272592765
 MonoBehaviour:
@@ -434,10 +435,23 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 100
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 100
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &272592766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272592763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7c5b546b2fc52f4b972884971f5f680, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBar: {fileID: 272592765}
 --- !u!1 &443911346
 GameObject:
   m_ObjectHideFlags: 0
@@ -827,7 +841,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00002670288}
+  m_AnchoredPosition: {x: 0.000015258789, y: 0.00002670288}
   m_SizeDelta: {x: 0, y: -0.0000038147}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &647682429
@@ -1464,7 +1478,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927286445}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -1587,8 +1601,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MaxHealth: 100
   speed: 2
-  range: 1.5
-  coolDown: 1
+  range: 1
+  coolDown: 2
   backOffChance: 0.2
   BackoffDistance: 2
   BackOffTimer: 1.2
@@ -1875,7 +1889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 914e554ddee64564ebbc423296ab87af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 0}
+  healthBar: {fileID: 272592766}
   health: 100
   maxHealth: 100
 --- !u!1 &1296900212

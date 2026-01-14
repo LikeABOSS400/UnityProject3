@@ -7,6 +7,8 @@ public class EnemyBehaviour : MonoBehaviour
     public int MaxHealth = 100;
     int currentHealth;
     private Transform target;
+    private Damage damage;
+    private Health playerHealth;
 
     public float speed = 2f;
     public float range = 1.5f;
@@ -26,6 +28,7 @@ public class EnemyBehaviour : MonoBehaviour
         if(player != null)
         {
             target = player.transform;
+            playerHealth = player.GetComponent<Health>();
         }
     }
 
@@ -71,7 +74,7 @@ public class EnemyBehaviour : MonoBehaviour
 
         if(Time.time > lastAttackTime + coolDown)
         {
-            Attack();
+            Attack(5f);
 
             if (Random.value < backOffChance)
                 StartBackOff();
@@ -84,9 +87,10 @@ public class EnemyBehaviour : MonoBehaviour
         transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
     }
 
-    void Attack()
+    void Attack(float damage)
     {
         lastAttackTime = Time.time;
+        playerHealth.TakeDamage(damage);
         Debug.Log("Enemy attack!");
     }
 
