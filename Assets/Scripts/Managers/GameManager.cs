@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.XR;
+using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
@@ -15,7 +16,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        ChangeState(GameState.GenerateGrid);
+        ChangeState(GameState.ChoseDistrict);
     }
 
     public void ChangeState(GameState newState)
@@ -23,22 +24,11 @@ public class GameManager : MonoBehaviour
         gameState = newState;
         switch(newState)
         {
-            case GameState.GenerateGrid:
-                GridManager.Instance.GenerateGrid();
+            case GameState.ChoseDistrict:
+                SceneManager.LoadScene("District_select");
                 break;
-            case GameState.SpawnUnits:
-                UnitsManager.Instance.SpawnHeroes();
-                break;
-            case GameState.SpawnEnemies:
-                UnitsManager.Instance.SpawnEnemies();
-                ChangeState(GameState.PlayerTurn);
-                break;
-            case GameState.PlayerTurn:
-                Debug.Log("Player turn");
-                break;
-            case GameState.EnemyTurn:
-                Debug.Log("Enemy turn");
-                StartCoroutine(EnemyTurnRoutine());
+            case GameState.Combat:
+                SceneManager.LoadScene("SampleScene");
                 break;
 
             default:
@@ -47,16 +37,6 @@ public class GameManager : MonoBehaviour
 
         }
     }
-    private IEnumerator EnemyTurnRoutine()
-    {
-        foreach(BaseEnemy enemy in UnitsManager.Instance.enemies)
-        {
-            enemy.TakeTurn();
-            yield return new WaitForSeconds(0f);
-        }
-
-        ChangeState(GameState.PlayerTurn);
-    }
 
 }
 
@@ -64,10 +44,7 @@ public class GameManager : MonoBehaviour
 
 public enum GameState
 {
-    GenerateGrid = 0,
-    PlayerTurn = 1,
-    EnemyTurn = 2,
-    SpawnUnits = 3,
-    SpawnEnemies = 4
+    ChoseDistrict = 0,
+    Combat = 1
 }
 

@@ -21,27 +21,38 @@ public class CombatTester : MonoBehaviour
     private void Awake()
     {
         input = GetComponent<PlayerInput>();
+
+        contactFilter2D = new ContactFilter2D();
+        contactFilter2D.useTriggers = true;
         contactFilter2D.SetLayerMask(enemyLayer);
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!canAttack) return;
+
         controls = input.GetInput();
         if (controls.AttackState)
         {
-            inLineCollider.Overlap(contactFilter2D, cols);
-            if (cols.Count > 0)
+            cols.Clear();
+
+            int hits = inLineCollider.Overlap(contactFilter2D, cols);
+
+            if (hits > 0)
             {
                 foreach (var col in cols)
                 {
                     print(col.transform.name);
-                    if (col.TryGetComponent(out SpriteRenderer sr))
+                    if (col.TryGetComponent(out EnemyHealth enemyHealth))
                     {
-                        sr.color = Color.red;
+                        enemyHealth.TakeDamage(25);
+                        Debug.Log("We hit: " + col.name);
                     }
+
                 }
             }
         }
     }
+
 }

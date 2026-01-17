@@ -4,11 +4,9 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 public class EnemyBehaviour : MonoBehaviour
 {
-    public int MaxHealth = 100;
-    int currentHealth;
     private Transform target;
-    private Damage damage;
     private Health playerHealth;
+    private EnemyHealth enemyHealth;
 
     public float speed = 2f;
     public float range = 1.5f;
@@ -23,32 +21,16 @@ public class EnemyBehaviour : MonoBehaviour
     private Vector3 backOffTarget;
     void Start()
     {
-        currentHealth = MaxHealth;
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if(player != null)
         {
             target = player.transform;
             playerHealth = player.GetComponent<Health>();
         }
+
+        enemyHealth = GetComponent<EnemyHealth>();
     }
 
-    public void TakeDamage(int damage)
-    {
-        currentHealth -= damage;
-
-        // tutaj animacja do otrzymywania obrażeń
-        if (currentHealth <= 0)
-        {
-            Die();
-        }
-    }
-
-    void Die()
-    {
-        Debug.Log("Enemy died!");
-        Destroy(gameObject);
-        // tutaj animacja umierania
-    }
     // Update is called once per frame
     void Update()
     {
@@ -102,4 +84,5 @@ public class EnemyBehaviour : MonoBehaviour
         Vector3 direction = (transform.position - target.position).normalized;
         backOffTarget = transform.position + direction * BackoffDistance;
     }
+
 }
